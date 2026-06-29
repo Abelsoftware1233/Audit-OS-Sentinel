@@ -8,17 +8,8 @@ Lokale netwerk-audit dashboard: scant openstaande poorten op infrastructuur die 
 - Een **persoonlijk/intern audit-hulpmiddel** voor je eigen netwerk of dat van een klant die je expliciet hebt geautoriseerd.
 - Een **basis voor een dienst**: jij voert de audit uit en levert het rapport, in plaats van de software als losstaand product te verkopen.
 
-## Wat dit niet is
+wat ik ga doen:
 
-- **Geen vervanging voor Nessus/Qualys/OpenVAS** — die hebben duizenden CVE-checks, automatische updates en jarenlange validatie. Dit scant 25 bekende poorten.
-- **Geen gecertificeerd product.** Overheidsinkoop in Nederland vereist doorgaans naleving van de BIO (Baseline Informatiebeveiliging Overheid), vaak een ISO 27001-gecertificeerde leverancier, en bij aanbestedingen een track record met referenties.
-- **Geen aansprakelijkheids- of supportregeling.** Een overheid koopt geen securitytool van een leverancier zonder SLA en verzekering.
-
-## Realistisch pad naar "verkocht aan de overheid"
-
-Niet: dit script inpakken en een prijs erop plakken.
-
-Wel:
 1. Gebruik dit als bewijs van vaardigheid bij een sollicitatie (securitybedrijf, gemeente-IT, NCSC-traineeship).
 2. Bied het aan als **dienst** (audit + rapport) aan een kleine organisatie die je kent — niet als product, maar als werk dat je levert.
 3. Bouw via een bestaand bedrijf dat al op een overheids-inkooplijst staat, in plaats van zelf rechtstreeks te verkopen.
